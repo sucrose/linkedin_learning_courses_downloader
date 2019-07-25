@@ -1,2 +1,3 @@
+youtube_dl
 requests
-beautifulsoup4
+bs4
